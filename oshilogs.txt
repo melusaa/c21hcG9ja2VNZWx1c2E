@@ -12,91 +12,58 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Melusa =====
-[1]Melusa      |08:23:27 | 21-10-2026| login OK @melusacatrina | score=1590 rank=4476
-[1]Melusa      |08:23:27 | 21-10-2026| serverTime=2026-10-21T08:23:27.000Z local=2026-10-21T08:23:27.430Z
+[1]Melusa      |09:06:49 | 22-10-2026| login OK @melusacatrina | score=1660 rank=4352
+[1]Melusa      |09:06:49 | 22-10-2026| serverTime=2026-10-22T09:06:49.000Z local=2026-10-22T09:06:49.127Z
 --> [1]Melusa menjalankan: Claim Daily
-[1]Melusa      |08:23:28 | 21-10-2026| daily: OK +10 poin score=1600
---> [1]Melusa menjalankan: Auto All Tasks (6 pending)
-[1]Melusa      |08:23:30 | 21-10-2026| [1/6] 3ce7cf77 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/melusacatrina/status/2112821443917485177
-[1]Melusa      |08:23:30 | 21-10-2026| delay 10s...
-[1]Melusa      |08:23:43 | 21-10-2026| [2/6] 67a9776a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/melusacatrina/status/2112821569554223917
-[1]Melusa      |08:23:43 | 21-10-2026| delay 10s...
-[1]Melusa      |08:23:55 | 21-10-2026| [3/6] e90ce04d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/melusacatrina/status/2112821853085841574
-[1]Melusa      |08:23:55 | 21-10-2026| delay 10s...
-[1]Melusa      |08:24:08 | 21-10-2026| [4/6] 06ee5b2a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/melusacatrina/status/2112821759190805902
-[1]Melusa      |08:24:08 | 21-10-2026| delay 10s...
-[1]Melusa      |08:24:20 | 21-10-2026| [5/6] 6e666982 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/melusacatrina/status/2112821887199339679
-[1]Melusa      |08:24:20 | 21-10-2026| delay 10s...
-[1]Melusa      |08:24:33 | 21-10-2026| [6/6] bd8c2f19 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227
-[1]Melusa      |08:24:33 | 21-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Melusa      |08:24:35 | 21-10-2026| [1/1] 3ce7cf77 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112752557412274 | proof=https://x.com/melusacatrina/status/2112821927531875719
+[1]Melusa      |09:06:50 | 22-10-2026| daily: OK +10 poin score=1670
+--> [1]Melusa menjalankan: Auto All Tasks (9 pending)
+[1]Melusa      |09:06:52 | 22-10-2026| [1/9] 7c25d003 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/melusacatrina/status/2113194741167071483
+[1]Melusa      |09:06:52 | 22-10-2026| delay 10s...
+[1]Melusa      |09:07:05 | 22-10-2026| [2/9] 1d9e1a73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/melusacatrina/status/2113194946786043680
+[1]Melusa      |09:07:05 | 22-10-2026| delay 10s...
+[1]Melusa      |09:07:17 | 22-10-2026| [3/9] 2f4c6b39 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/melusacatrina/status/2113195197714578176
+[1]Melusa      |09:07:17 | 22-10-2026| delay 10s...
+[1]Melusa      |09:07:29 | 22-10-2026| [4/9] 4dabfbcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/melusacatrina/status/2113194975288906446
+[1]Melusa      |09:07:29 | 22-10-2026| delay 10s...
+[1]Melusa      |09:07:41 | 22-10-2026| [5/9] ada86142 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/melusacatrina/status/2113195291671315110
+[1]Melusa      |09:07:41 | 22-10-2026| delay 10s...
+[1]Melusa      |09:07:53 | 22-10-2026| [6/9] a3b32468 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/melusacatrina/status/2113195127691964496
+[1]Melusa      |09:07:53 | 22-10-2026| delay 10s...
+[1]Melusa      |09:08:05 | 22-10-2026| [7/9] cf4945ad (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/melusacatrina/status/2113195111517729108
+[1]Melusa      |09:08:05 | 22-10-2026| delay 10s...
+[1]Melusa      |09:08:17 | 22-10-2026| [8/9] 05c835bd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/melusacatrina/status/2113195379749288088
+[1]Melusa      |09:08:17 | 22-10-2026| delay 10s...
+[1]Melusa      |09:08:29 | 22-10-2026| [9/9] 8a108d4b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/melusacatrina/status/2113195515249306264
+[1]Melusa      |09:08:29 | 22-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Melusa      |09:08:31 | 22-10-2026| [1/1] 7c25d003 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2113116994090545 | proof=https://x.com/melusacatrina/status/2113195388827488529
 --> [1]Melusa menjalankan: Watch Anime
-[1]Melusa      |08:24:36 | 21-10-2026| watch: 2 video belum completed: oshi-rainbow-star,bakeru-ikesou-jan-mv
-[1]Melusa      |08:24:36 | 21-10-2026| watch [1/2] farming oshi-rainbow-star...
-[1]Melusa      |08:24:37 | 21-10-2026| watch oshi-rainbow-star: mulai dari 0 (record 71.8s diabaikan)
-[1]Melusa      |08:24:38 | 21-10-2026| watch oshi-rainbow-star: 83% (71.81/86.00s)
-[1]Melusa      |08:24:45 | 21-10-2026| watch oshi-rainbow-star: 83% (71.81/86.00s)
-[1]Melusa      |08:24:51 | 21-10-2026| watch oshi-rainbow-star: 83% (71.81/86.00s)
-[1]Melusa      |08:24:57 | 21-10-2026| watch oshi-rainbow-star: 83% (71.81/86.00s)
-[1]Melusa      |08:25:04 | 21-10-2026| watch oshi-rainbow-star: 90% (77.87/86.00s)
-[1]Melusa      |08:25:04 | 21-10-2026| watch oshi-rainbow-star: COMPLETED (77.87/86.00s)
-[1]Melusa      |08:25:09 | 21-10-2026| watch [2/2] farming bakeru-ikesou-jan-mv...
-[1]Melusa      |08:25:10 | 21-10-2026| watch bakeru-ikesou-jan-mv: mulai dari 0 (record 63.0s diabaikan)
-[1]Melusa      |08:25:10 | 21-10-2026| watch bakeru-ikesou-jan-mv: 34% (62.97/181.00s)
-[1]Melusa      |08:25:17 | 21-10-2026| watch bakeru-ikesou-jan-mv: 34% (62.97/181.00s)
-[1]Melusa      |08:25:23 | 21-10-2026| watch bakeru-ikesou-jan-mv: 34% (62.97/181.00s)
-[1]Melusa      |08:25:30 | 21-10-2026| watch bakeru-ikesou-jan-mv: 34% (62.97/181.00s)
-[1]Melusa      |08:25:39 | 21-10-2026| watch bakeru-ikesou-jan-mv: 34% (62.97/181.00s)
-[1]Melusa      |08:25:45 | 21-10-2026| watch bakeru-ikesou-jan-mv: 34% (62.97/181.00s)
-[1]Melusa      |08:25:52 | 21-10-2026| watch bakeru-ikesou-jan-mv: 34% (62.97/181.00s)
-[1]Melusa      |08:25:58 | 21-10-2026| watch bakeru-ikesou-jan-mv: 34% (62.97/181.00s)
-[1]Melusa      |08:26:04 | 21-10-2026| watch bakeru-ikesou-jan-mv: 34% (62.97/181.00s)
-[1]Melusa      |08:26:10 | 21-10-2026| watch bakeru-ikesou-jan-mv: 34% (62.97/181.00s)
-[1]Melusa      |08:26:17 | 21-10-2026| watch bakeru-ikesou-jan-mv: 34% (62.97/181.00s)
-[1]Melusa      |08:26:23 | 21-10-2026| watch bakeru-ikesou-jan-mv: 35% (64.82/181.00s)
-[1]Melusa      |08:26:32 | 21-10-2026| watch bakeru-ikesou-jan-mv: 38% (70.31/181.00s)
-[1]Melusa      |08:26:38 | 21-10-2026| watch bakeru-ikesou-jan-mv: 42% (76.62/181.00s)
-[1]Melusa      |08:26:44 | 21-10-2026| watch bakeru-ikesou-jan-mv: 45% (82.80/181.00s)
-[1]Melusa      |08:26:51 | 21-10-2026| watch bakeru-ikesou-jan-mv: 49% (88.89/181.00s)
-[1]Melusa      |08:26:57 | 21-10-2026| watch bakeru-ikesou-jan-mv: 52% (95.32/181.00s)
-[1]Melusa      |08:27:03 | 21-10-2026| watch bakeru-ikesou-jan-mv: 56% (101.40/181.00s)
-[1]Melusa      |08:27:09 | 21-10-2026| watch bakeru-ikesou-jan-mv: 59% (106.83/181.00s)
-[1]Melusa      |08:27:16 | 21-10-2026| watch bakeru-ikesou-jan-mv: 62% (112.27/181.00s)
-[1]Melusa      |08:27:22 | 21-10-2026| watch bakeru-ikesou-jan-mv: 65% (117.81/181.00s)
-[1]Melusa      |08:27:29 | 21-10-2026| watch bakeru-ikesou-jan-mv: 68% (123.54/181.00s)
-[1]Melusa      |08:27:35 | 21-10-2026| watch bakeru-ikesou-jan-mv: 71% (129.69/181.00s)
-[1]Melusa      |08:27:41 | 21-10-2026| watch bakeru-ikesou-jan-mv: 74% (135.24/181.00s)
-[1]Melusa      |08:27:47 | 21-10-2026| watch bakeru-ikesou-jan-mv: 77% (140.87/181.00s)
-[1]Melusa      |08:27:53 | 21-10-2026| watch bakeru-ikesou-jan-mv: 80% (146.55/181.00s)
-[1]Melusa      |08:28:00 | 21-10-2026| watch bakeru-ikesou-jan-mv: 83% (151.97/181.00s)
-[1]Melusa      |08:28:06 | 21-10-2026| watch bakeru-ikesou-jan-mv: 87% (157.52/181.00s)
-[1]Melusa      |08:28:13 | 21-10-2026| watch bakeru-ikesou-jan-mv: 90% (163.01/181.00s)
-[1]Melusa      |08:28:13 | 21-10-2026| watch bakeru-ikesou-jan-mv: COMPLETED (163.01/181.00s)
+[1]Melusa      |09:08:32 | 22-10-2026| watch: semua video sudah completed
 --> [1]Melusa menjalankan: Read Article
-[1]Melusa      |08:28:14 | 21-10-2026| news: 27/27 artikel selesai dibaca
-[1]Melusa      |08:28:15 | 21-10-2026| mint eligibility: {"userId":"2010520446018756608","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@melusacatrina","status":"submitted","revision":"a7148a05-c7ef-4534-acc2-e7f05cd8
-[1]Melusa      |08:28:22 | 21-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Melusa      |09:08:34 | 22-10-2026| news: 27/27 artikel selesai dibaca
+[1]Melusa      |09:08:34 | 22-10-2026| mint eligibility: {"userId":"2010520446018756608","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@melusacatrina","status":"submitted","revision":"a7148a05-c7ef-4534-acc2-e7f05cd8
+[1]Melusa      |09:08:40 | 22-10-2026| news community-first-update-2026-10: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Melusa      |09:08:49 | 22-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
 --> [1]Melusa menjalankan: Quiz Anime
-[1]Melusa      |08:28:24 | 21-10-2026| quiz ep1: sudah dijawab
-[1]Melusa      |08:28:24 | 21-10-2026| quiz ep2: sudah dijawab
-[1]Melusa      |08:28:24 | 21-10-2026| quiz ep3: sudah dijawab
-[1]Melusa      |08:28:24 | 21-10-2026| quiz ep4: sudah dijawab
-[1]Melusa      |08:28:24 | 21-10-2026| quiz ep5: sudah dijawab
-[1]Melusa      |08:28:24 | 21-10-2026| quiz ep6: sudah dijawab
+[1]Melusa      |09:08:52 | 22-10-2026| quiz ep1: sudah dijawab
+[1]Melusa      |09:08:52 | 22-10-2026| quiz ep2: sudah dijawab
+[1]Melusa      |09:08:52 | 22-10-2026| quiz ep3: sudah dijawab
+[1]Melusa      |09:08:52 | 22-10-2026| quiz ep4: sudah dijawab
+[1]Melusa      |09:08:52 | 22-10-2026| quiz ep5: sudah dijawab
+[1]Melusa      |09:08:52 | 22-10-2026| quiz ep6: sudah dijawab
 --> [1]Melusa menjalankan: Music Missions (realtime, bisa lama!)
-[1]Melusa      |08:28:26 | 21-10-2026| music: kedua misi sudah tercapai, stop
-[1]Melusa      |08:28:27 | 21-10-2026| mission music-listens-10: sudah diklaim
-[1]Melusa      |08:28:27 | 21-10-2026| mission music-minutes-30: sudah diklaim
-[1]Melusa      |08:28:27 | 21-10-2026| mission anime-completed-3: sudah diklaim
+[1]Melusa      |09:08:54 | 22-10-2026| music: kedua misi sudah tercapai, stop
+[1]Melusa      |09:08:55 | 22-10-2026| mission music-listens-10: sudah diklaim
+[1]Melusa      |09:08:55 | 22-10-2026| mission music-minutes-30: sudah diklaim
+[1]Melusa      |09:08:55 | 22-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Melusa menjalankan: Claim Missions
-[1]Melusa      |08:28:27 | 21-10-2026| mission music-listens-10: sudah diklaim
-[1]Melusa      |08:28:27 | 21-10-2026| mission music-minutes-30: sudah diklaim
-[1]Melusa      |08:28:27 | 21-10-2026| mission anime-completed-3: sudah diklaim
+[1]Melusa      |09:08:55 | 22-10-2026| mission music-listens-10: sudah diklaim
+[1]Melusa      |09:08:55 | 22-10-2026| mission music-minutes-30: sudah diklaim
+[1]Melusa      |09:08:55 | 22-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Melusa menjalankan: Check Eligibility
 
 --- eligibility [1]Melusa ---
-  @melusacatrina | score=1590 rank=4476
-  tasks    [###################-] 74/80
+  @melusacatrina | score=1660 rank=4352
+  tasks    [##################--] 77/86
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -107,14 +74,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Melusa menjalankan: Read Manga
-[1]Melusa      |08:28:31 | 21-10-2026| manga: 0/13 chapter belum completed
+[1]Melusa      |09:08:59 | 22-10-2026| manga: 0/13 chapter belum completed
 --> [1]Melusa menjalankan: Get Gift
-[1]Melusa      |08:28:32 | 21-10-2026| gift: 0/4 belum diterima
+[1]Melusa      |09:09:00 | 22-10-2026| gift: 0/4 belum diterima
 --> [1]Melusa menjalankan: Setup Profile
-[1]Melusa      |08:28:32 | 21-10-2026| profile: bio="https://x.com/melusacatrina" fav=amato rewardAt=1791695057
-[1]Melusa      |08:28:32 | 21-10-2026| profile: bonus sudah diklaim, skip
+[1]Melusa      |09:09:00 | 22-10-2026| profile: bio="https://x.com/melusacatrina" fav=amato rewardAt=1791695057
+[1]Melusa      |09:09:00 | 22-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Melusa menjalankan: Bind Wallet
-[1]Melusa      |08:28:32 | 21-10-2026| wallet: sudah terikat 6dLNc8tKJs... (solana)
+[1]Melusa      |09:09:01 | 22-10-2026| wallet: sudah terikat 6dLNc8tKJs... (solana)
 
 == RINGKASAN ==
-- Melusa: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 2/2 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Melusa: daily=claimed | tasks OK 10/10 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
